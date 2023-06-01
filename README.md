@@ -1,4 +1,6 @@
-### Bonjour, bienvenu sur mon Github
+### Hello, I'm Guillaume
+
+React web developper from Bourg  en Bresse, France
 
 <!--
 **guillaumegemelas/guillaumegemelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
