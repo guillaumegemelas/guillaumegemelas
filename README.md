@@ -3,7 +3,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/guillaume-gemelas-a88880230/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:guillaumegemelas@gmail.com)
 
-React web developper from Bourg  en Bresse, France
+I am a React web developper from Bourg  en Bresse, France
+
+### :point_right: Compétences
+#### Langages / Frameworks
+
 
 | Quelques statistiques | | |
 | :---: |:---:| :---:|
