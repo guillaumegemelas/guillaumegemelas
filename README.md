@@ -12,7 +12,7 @@ My past experiences as a methods engineer have provided me with a holistic under
 
 Passionate about the digital world and eager for new challenges, I am currently seeking employment opportunities in web and mobile development.
 
-### :point_right: Compétences
+### :point_right: Skills
 #### Langages / Frameworks / Technos
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -28,7 +28,7 @@ Passionate about the digital world and eager for new challenges, I am currently 
 
 
 
-| Quelques statistiques | | |
+| Few statistics | | |
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumegemelas&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=guillaumegemelas&show_icons=true&theme=radical&count_private=true) |
 
