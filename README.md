@@ -14,7 +14,7 @@ Passionate about the digital world and eager for new challenges, I am currently 
 
 ### :point_right: Compétences
 #### Langages / Frameworks
-|||![react](https://github.com/lereacteur/ANDROMEDA23-ISSUES/assets/121306549/a78f1d35-d259-4080-b867-6453961540ef)|![reactnative](https://github.com/lereacteur/ANDROMEDA23-ISSUES/assets/121306549/2344992a-5356-418c-8a77-5c29ef446403)|
+
 
 
 | Quelques statistiques | | |
