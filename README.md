@@ -2,8 +2,10 @@
 
 React web developper from Bourg  en Bresse, France
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumegemelas&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=guillaumegemelas&show_icons=true&theme=radical&count_private=true)
+| Quelques statistiques | | |
+| :---: |:---:| :---:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumegemelas&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=guillaumegemelas&show_icons=true&theme=radical&count_private=true) |
+
 
 <!--
 **guillaumegemelas/guillaumegemelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
