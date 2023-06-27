@@ -34,3 +34,4 @@ Passionate about the digital world and eager for new challenges, I am currently 
 
 
 
+![](https://github-readme-stats.vercel.app/api?username=guillaumegemelas&theme=dark&show_icons=true)
