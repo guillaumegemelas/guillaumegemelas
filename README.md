@@ -30,8 +30,8 @@ Passionate about the digital world and eager for new challenges, I am currently 
 
 | Few statistics | | |
 | :---: |:---:| :---:|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumegemelas&layout=compact)](https://github.com/guillaumegemelas/github-readme-stats)    |  | ![](https://github-readme-stats.vercel.app/api?username=guillaumegemelas&show_icons=true&theme=radical&count_private=true) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumegemelas&hide=javascript,html&layout=compact)](https://github.com/guillaumegemelas/github-readme-stats)    |  | ![](https://github-readme-stats.vercel.app/api?username=guillaumegemelas&show_icons=true&theme=radical&count_private=true) |
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=guillaumegemelas&theme=dark&show_icons=true)
+
