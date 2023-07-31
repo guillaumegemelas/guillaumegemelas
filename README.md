@@ -10,7 +10,6 @@ I would like to emphasize that I continuously enhance my skill set through daily
 
 My past experiences as a methods engineer have provided me with a holistic understanding of the company and equipped me with transferable skills such as project management, collaboration with cross-functional teams, and problem-solving abilities.
 
-
 Passionate about the digital world and eager for new challenges, I am currently seeking employment opportunities in web and mobile development.
 
 ### :point_right: Skills
