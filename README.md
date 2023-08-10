@@ -8,7 +8,6 @@ I am a React web developper from Bourg  en Bresse, France.
 I can build a Full-Stack website, as my skills allow me to work on both the server-side (back-end) and client-side (front-end) components.
 I would like to emphasize that I continuously enhance my skill set through daily self-learning, including online courses, tutorials, and personal projects.
 
-
 My past experiences as a methods engineer have provided me with a holistic understanding of the company and equipped me with transferable skills such as project management, collaboration with cross-functional teams, and problem-solving abilities.
 
 
