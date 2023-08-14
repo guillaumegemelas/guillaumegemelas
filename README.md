@@ -3,6 +3,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/guillaume-gemelas-a88880230/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:guillaumegemelas@gmail.com)
 
+
 I am a React web developper from Bourg  en Bresse, France.
 
 I can build a Full-Stack website, as my skills allow me to work on both the server-side (back-end) and client-side (front-end) components.
