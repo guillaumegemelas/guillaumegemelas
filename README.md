@@ -12,6 +12,7 @@ My past experiences as a methods engineer have provided me with a holistic under
 
 Passionate about the digital world and eager for new challenges, I am currently seeking employment opportunities in web and mobile development.
 
+
 ### :point_right: Skills
 #### Langages / Frameworks / Technos
 
